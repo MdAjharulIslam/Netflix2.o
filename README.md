@@ -14,11 +14,13 @@ This is a Netflix clone built using the MERN (MongoDB, Express, React, Node.js) 
 - Notifications using React-Toastify
 - Secure backend with Node.js and Express
 - MongoDB for data storage
-- Many more features
 - User authentication (JWT-based authentication)
 - Browse and stream movies and TV shows
 - Responsive UI built with React, Tailwind CSS, and - Secure backend with Node.js and Express
 - MongoDB for data storage
+- Users can save movies
+- Many more features
+
 
 ## Technologies Used
 - **Frontend**: React, Tailwind CSS, React-Toastify
