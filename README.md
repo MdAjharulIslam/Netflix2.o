@@ -28,7 +28,7 @@ This is a Netflix clone built using the MERN (MongoDB, Express, React, Node.js) 
 - **Database**: MongoDB
 - **Authentication**: JSON Web Token (JWT) with strong user authentication
 - **Movie Data**: TMDB API
-- **Frontend**: React, Tailwind CSS, DaisyUI
+- **Frontend**: React, Tailwind CSS 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Token (JWT)
