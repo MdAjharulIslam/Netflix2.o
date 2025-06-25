@@ -13,6 +13,6 @@ proxy:{
     target:"http://localhost:5000",
   }
 }
-
+  
   }
 })
